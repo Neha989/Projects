@@ -1,3 +1,5 @@
+--Data Exploration
+
 select location,date,total_cases,new_cases, population
 from deaths
 order by 1,2
